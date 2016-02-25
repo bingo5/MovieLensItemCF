@@ -1,5 +1,5 @@
 #__author__ = 'jixuebin'
-
+# Recommend Movie
 # 给用户推荐item
 def GetRecommendation(user, train, W, K, r):
 	rank = dict()
