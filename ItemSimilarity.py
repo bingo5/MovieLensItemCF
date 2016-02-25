@@ -1,5 +1,5 @@
 #__author__ = 'jixuebin'
-
+# Similarity Fuction
 import math
 
 
